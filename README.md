@@ -1,7 +1,8 @@
 # Program_ArduinoALL
-Mohamad Distna Arsy Satrio
-NIM : H43220063 
-Golongan : A
-Program Studi : Teknologi Rekayasa Mekatronika
-Jurusan : Teknik
-Politeknik Negeri Jember
+Mohamad Distna Arsy Satrio /n
+NIM : H43220063 /n
+Golongan : A /n
+Program Studi : Teknologi Rekayasa Mekatronika /n
+Jurusan : Teknik /n
+Politeknik Negeri Jember /n
+ 
