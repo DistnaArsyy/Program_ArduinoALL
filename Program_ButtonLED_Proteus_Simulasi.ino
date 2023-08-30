@@ -10,7 +10,6 @@ void setup() {
 void loop() {
   int statusbutton = digitalRead(buttonPin);
   if (statusbutton == LOW) {
-    //delay(100); 
     if (!ledOn) {
       ledOn = true;
       digitalWrite(ledPin, HIGH);
